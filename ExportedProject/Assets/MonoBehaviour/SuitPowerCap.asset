@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: SuitPowerCap
+  m_EditorClassIdentifier:
+  name: 'Suit Power '
+  prefab: {fileID: 1617203733390230, guid: bdb1c8f5c2f09b645acca3c7f0ac1c4b, type: 2}
+  icon: {fileID: 4300000, guid: c07cfcad3f059644f9ed1afca4b7d0ff, type: 2}
+  iconSize: 100
+  description: Increases the power capacity of the suit. [OBS] - Is not kept after death
+  iconOffsetY: 0
+  iconRot: {x: 180, y: 0, z: 0}
+  outDoor: 0
+  floor: 0

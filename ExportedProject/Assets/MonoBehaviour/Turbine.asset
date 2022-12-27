@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fa3d2bb68d8b0c4b97510170bdd8b13, type: 3}
+  m_Name: Turbine
+  m_EditorClassIdentifier:
+  name: Turbine
+  icon: {fileID: 21300000, guid: 35967b83dffa41c478976df463edc533, type: 2}
+  prefab: {fileID: 1912767511550038, guid: cfa5d7687f61bfb43a89a9daa60c6491, type: 2}
+  iconSize: 100
+  description: Basic component used in crafting.

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: PowerStation
+  m_EditorClassIdentifier:
+  name: Power Station
+  prefab: {fileID: 1030530822275380, guid: 465f0a9a609a19f45a9f7d44eb4f97f3, type: 2}
+  icon: {fileID: 4300000, guid: 596e51c8c30e3d145ac79c826ece5117, type: 2}
+  iconSize: 5
+  description: The power station will increase the max power capacity of the station.
+  iconOffsetY: 0
+  iconRot: {x: 0, y: 0, z: 0}
+  outDoor: 0
+  floor: 1

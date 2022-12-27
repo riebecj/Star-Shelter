@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b32befef91acac44fa17f5dcc7a39a06, type: 3}
+  m_Name: EndCap
+  m_EditorClassIdentifier:
+  name: End Capsule
+  prefab: {fileID: 1069587838059332, guid: 5ca5f5045267d754783286e0139a9c9e, type: 2}
+  icon: {fileID: 4300000, guid: 014d29dfca533b84a96d499c7ac9fbbb, type: 2}
+  iconSize: 10
+  description: A glass capsule that can be put at an opening to seal it off.
+  iconOffsetY: 0
+  iconRot: {x: 0, y: 0, z: 0}
+  isRoom: 1

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: MagPush
+  m_EditorClassIdentifier:
+  name: Debris Pusher
+  prefab: {fileID: 1676172834983740, guid: dc80ca21e093b864696d491677639a74, type: 2}
+  icon: {fileID: 4300000, guid: 98c10a13c8b4276448bdbc48001e8850, type: 2}
+  iconSize: 30
+  description: 'A magnetic device that can be placed on the outside of the station, it will repell nearby debris to protect the station. '
+  iconOffsetY: 0
+  iconRot: {x: 270, y: 0, z: 0}
+  outDoor: 1
+  floor: 0

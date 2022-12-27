@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: Beacon
+  m_EditorClassIdentifier:
+  name: Beacon
+  prefab: {fileID: 1153197969168931, guid: a5068536194e85c458a813296e86e84e, type: 2}
+  icon: {fileID: 4300000, guid: 245e1259ccdda1942b53af896a4f9db6, type: 2}
+  iconSize: 25
+  description: 'The beacon can be used to send a distress signal into space. It needs a beacon signal to activate, those can be found when scavenging. '
+  iconOffsetY: -15
+  iconRot: {x: 0, y: 0, z: 0}
+  outDoor: 0
+  floor: 1

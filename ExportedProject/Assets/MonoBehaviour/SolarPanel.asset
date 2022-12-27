@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: SolarPanel
+  m_EditorClassIdentifier:
+  name: Solar Panel
+  prefab: {fileID: 1432408026412185, guid: 922298abbe52a324e849f3a90cc4012c, type: 2}
+  icon: {fileID: 4300000, guid: c62338f780a365e4f8ca99a3985a9e75, type: 2}
+  iconSize: 30
+  description: Can be placed on the outside of the ship to generate power.
+  iconOffsetY: 0
+  iconRot: {x: 270, y: 0, z: 0}
+  outDoor: 1
+  floor: 0

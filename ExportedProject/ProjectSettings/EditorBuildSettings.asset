@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TutorialScene.unity
+    guid: ceb3191caa3f2a04d95a8f7234d73ac0
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: cf4db72378d250f4cb7a69a5801c3044
+  - enabled: 1
+    path: Assets/Scenes/Spaceships/Spaceship 1.unity
+    guid: 4a6648e62549ac144b78dc5f1c2502a6
+  - enabled: 1
+    path: Assets/Scenes/Spaceships/Spaceship 2.unity
+    guid: 4c3d4fe79bb249047890ef1fdea0e011
+  - enabled: 1
+    path: Assets/Scenes/Spaceships/Spaceship 3.unity
+    guid: f280d09750c4d284f9fefd2972f5bf2c
+  - enabled: 1
+    path: Assets/Scenes/Spaceships/Spaceship 4.unity
+    guid: bc673080a9a90dd4d9517928d09f38d3
+  - enabled: 1
+    path: Assets/Scenes/Spaceships/Spaceship 5.unity
+    guid: a786887a6da98d24593a79fa3b1d6772
+  - enabled: 1
+    path: Assets/Scenes/Spaceships/CargoShip 1.unity
+    guid: 4c1b90380caf68540acf8d5ca2cbd54b
+  - enabled: 1
+    path: Assets/Scenes/Spaceships/SpaceshipSmall 1.unity
+    guid: 2a0c7235cf4f5ff43ad191141986027e
+  - enabled: 1
+    path: Assets/Scenes/Spaceships/SpaceStation 1.unity
+    guid: 7d66f3ddbea21b440a17c09a16c45d3d
+  - enabled: 1
+    path: Assets/Scenes/Spaceships/SpaceStation 2.unity
+    guid: 0cc2843bdb242e943b34716986dbb904
+  - enabled: 1
+    path: Assets/Scenes/Spaceships/AsteroidCave 1.unity
+    guid: efce2c727ac6d6e45a1a668bf717fea6
+  - enabled: 1
+    path: Assets/Scenes/EarthScene.unity
+    guid: 2a3e4cad42e156e4599a6a35e5b01991

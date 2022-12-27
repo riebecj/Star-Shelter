@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca560a2e24f209443823b08e09acb0bc, type: 3}
+  m_Name: Foodplants
+  m_EditorClassIdentifier:
+  title: Food plants
+  breadText: 'Food plants will generate fruits of different kinds.
+
+	the fruits heals, and restores hunger by diffrent ammounts. 
+
+	
+
+	If the oxygen is leaking from the room the plant is in. the plant will slowly lose health. once a plant is dead it can only be salvaged and will no longer generate food. 
+
+	
+
+	A plant will not regenerate health. 
+
+	
+
+	
+
+	To grow a plant you need to find a [seed capsule] and put it in a plant pot (can be crafted on the engineering table)
+
+	
+
+	[Seed capsule] can be found on small werckages floating around tha station. 
+
+	They can also be found in the spaceships further out. '

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Controller
+  - NoPlayer
+  - IOC
+  - World
+  - Door
+  - SpawnPos
+  - Glass
+  - Wall
+  - LeakPoint
+  - LeakPointGlass
+  - CraftMaterial
+  - InteractWithParent
+  - UI
+  - LeakUI
+  - StationHolopad
+  - PlanetHolopad
+  - PlanetTerrain
+  - StationWarpAnim
+  - PlanetWarpAnim
+  - Cockpit
+  - StarRover
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - No Shadow
+  - Door
+  - NoPlayer
+  - Player
+  - Wall
+  - Shield
+  - Debris
+  - Holo
+  - Glass
+  - Hatch
+  - NoDebris
+  - Occluder
+  - No Shadow 2
+  - Inventory
+  - GunMods
+  - Head
+  - Cone
+  - Node
+  - OxygenCheck
+  - Projectile
+  - StationHolopad
+  - 
+  - DroneOnly
+  - VROnly
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

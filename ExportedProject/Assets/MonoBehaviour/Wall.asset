@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ecb7038c1490ac4e9c31b3ad525e01a, type: 3}
+  m_Name: Wall
+  m_EditorClassIdentifier:
+  name: Wall (Standard)
+  prefab: {fileID: 1309722406407799, guid: b18f692f06ba554469895400727dc64b, type: 2}
+  icon: {fileID: 4300000, guid: e59a256d6dd703442bbcb992c2c31310, type: 2}
+  iconSize: 5
+  description: 'A metal wall that can be placed on rooms. '
+  iconOffsetY: 0
+  iconRot: {x: 0, y: 0, z: 0}
+  corner: {fileID: 1687123585573193, guid: dcb1dc0c05357264d839784c90440c40, type: 2}

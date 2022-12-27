@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca560a2e24f209443823b08e09acb0bc, type: 3}
+  m_Name: Finding boimass
+  m_EditorClassIdentifier:
+  title: Finding boimass
+  breadText: 'Biomass can be found in oranic matter like wood, cloth, food etc.
+
+	
+
+	Biomass is comming in bio-rooms or living quarters onboard spaceships. 
+
+	
+
+	
+
+	
+
+	'

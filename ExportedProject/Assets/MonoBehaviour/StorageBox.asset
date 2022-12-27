@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: StorageBox
+  m_EditorClassIdentifier:
+  name: Storage Box
+  prefab: {fileID: 1496479396554733, guid: 2a61e157b433d6d4c85a13ffe99a5484, type: 2}
+  icon: {fileID: 4300000, guid: 732c0d9f10d603f4791ce535ed0471be, type: 2}
+  iconSize: 40
+  description: 'A box where you can store physical objects. '
+  iconOffsetY: 0
+  iconRot: {x: 0, y: 180, z: 0}
+  outDoor: 0
+  floor: 0

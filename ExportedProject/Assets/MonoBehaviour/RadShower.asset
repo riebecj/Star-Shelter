@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: RadShower
+  m_EditorClassIdentifier:
+  name: Rad Shower
+  prefab: {fileID: 1460378193640780, guid: e966b979f038b1348b739d94fb29949d, type: 2}
+  icon: {fileID: 4300000, guid: cda4e19da375f2947888caf73e5a88e6, type: 2}
+  iconSize: 10
+  description: 'This shower can clean your suit from radiation, at the cost of station power. '
+  iconOffsetY: -15
+  iconRot: {x: 0, y: 0, z: 0}
+  outDoor: 0
+  floor: 1

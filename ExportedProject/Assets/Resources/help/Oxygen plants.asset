@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca560a2e24f209443823b08e09acb0bc, type: 3}
+  m_Name: Oxygen plants
+  m_EditorClassIdentifier:
+  title: Oxygen plants
+  breadText: 'Oxygen plants will generate oxygen. 
+
+	
+
+	- If the oxygen is leaking from the room the plant is in. the plant will slowly lose health. once a plant is dead it can only be salvaged. 
+
+	
+
+	A plant will not regenerate health. 
+
+	
+
+	
+
+	
+
+	'

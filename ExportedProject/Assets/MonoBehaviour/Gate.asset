@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: Gate
+  m_EditorClassIdentifier:
+  name: Gate
+  prefab: {fileID: 1891352198771480, guid: 3e8fb830fbfea7b44aff1711c2a77208, type: 2}
+  icon: {fileID: 4300000, guid: 148cf858696f26e4186a030e7dcc729c, type: 2}
+  iconSize: 10
+  description: 'A gate that can be placed inbetween structures, will prevent oxygen from travelling between those structures. '
+  iconOffsetY: 0
+  iconRot: {x: 0, y: 0, z: 0}
+  outDoor: 0
+  floor: 0

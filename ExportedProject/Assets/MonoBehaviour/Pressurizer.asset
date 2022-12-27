@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: Pressurizer
+  m_EditorClassIdentifier:
+  name: 'Pressurizer '
+  prefab: {fileID: 1578452544311278, guid: 6b70df816ceff284bb7699a207776ce7, type: 2}
+  icon: {fileID: 4300000, guid: 952aec0a46ee45c4eaa8aa5b69034601, type: 2}
+  iconSize: 25
+  description: 'This objetct can suck in and compress the oxygen in the room. Usefull when room is leaking or for airlocks. '
+  iconOffsetY: -15
+  iconRot: {x: 0, y: 0, z: 0}
+  outDoor: 0
+  floor: 1

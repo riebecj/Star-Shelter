@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ecb7038c1490ac4e9c31b3ad525e01a, type: 3}
+  m_Name: WallGlass
+  m_EditorClassIdentifier:
+  name: Wall (Glass)
+  prefab: {fileID: 1176569717773922, guid: 41ad764f253666749ac00b9fd8a63653, type: 2}
+  icon: {fileID: 4300000, guid: 52a1de8c87453ca47802fcef8aca4c02, type: 2}
+  iconSize: 5
+  description: 'A glass wall that can be placed on rooms. '
+  iconOffsetY: 0
+  iconRot: {x: 0, y: 0, z: 0}
+  corner: {fileID: 1276789973142018, guid: e43c9a0865e6b504f8d5dadc0d84224d, type: 2}

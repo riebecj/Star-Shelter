@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: Music Player
+  m_EditorClassIdentifier:
+  name: Music Player
+  prefab: {fileID: 1681682032108063, guid: 2b64485409c3d334b876c0734e85028a, type: 2}
+  icon: {fileID: 4300000, guid: f152f0f353b5b034d9cf52af17423157, type: 2}
+  iconSize: 15
+  description: 'A music player that can play various songs. '
+  iconOffsetY: -10
+  iconRot: {x: 0, y: 180, z: 0}
+  outDoor: 0
+  floor: 1

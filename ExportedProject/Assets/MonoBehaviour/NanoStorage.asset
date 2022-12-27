@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: NanoStorage
+  m_EditorClassIdentifier:
+  name: Nano Storage
+  prefab: {fileID: 1432347659447277, guid: 9fad4742a1f74ed418a704a73d2ad6c8, type: 2}
+  icon: {fileID: 4300000, guid: fe8418a3feee52341adce02f575ba426, type: 2}
+  iconSize: 40
+  description: 'A storage container for nano material. '
+  iconOffsetY: 0
+  iconRot: {x: 0, y: 180, z: 0}
+  outDoor: 0
+  floor: 0

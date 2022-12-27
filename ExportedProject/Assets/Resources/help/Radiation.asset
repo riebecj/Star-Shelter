@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca560a2e24f209443823b08e09acb0bc, type: 3}
+  m_Name: Radiation
+  m_EditorClassIdentifier:
+  title: Radiation
+  breadText: 'Some areas are radioactive, visualized by a green cloud. 
+
+	
+
+	you can stay in a radioactive zone for a while but your suit will get slowly radiated and beyond a critical level where you will puke and increase hunger. 
+
+	
+
+	your suit wil go down below critical but if you want to enter a radiated area again you need to remove the radiation from the suit.
+
+	
+
+	To remove radiation from the suit you need to enter a RadShower that can be build on the enginering bay. 
+
+	
+
+	
+
+	
+
+	'

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1197983682433180}
+  m_IsPrefabParent: 1
+--- !u!1 &1197983682433180
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4267114557778450}
+  - component: {fileID: 114310439826835974}
+  - component: {fileID: 114928953619333939}
+  m_Layer: 0
+  m_Name: SuitOxyenCapacity
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4267114557778450
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1197983682433180}
+  m_LocalRotation: {x: -0.09353745, y: 0.07927489, z: 0.21008702, w: 0.9699638}
+  m_LocalPosition: {x: 0.312867, y: 0.039596736, z: 0.5712957}
+  m_LocalScale: {x: 0.934973, y: 0.934973, z: 0.934973}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -8.684189, y: -11.1331415, z: -23.594156}
+--- !u!114 &114310439826835974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1197983682433180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ef1b0dfc56b58248b387b300b26a294, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  suitUpgrade: 0
+--- !u!114 &114928953619333939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1197983682433180}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35481c37eb380704cacea6e062b9dfe9, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  powerCost: 15
+  addToNanoInventory: 0
+  craftMaterials:
+  - {fileID: 11400000, guid: 6e0d23b7cdca31b44b08899e3fa732e8, type: 2}
+  - {fileID: 11400000, guid: f66cc85cde8f0a3478c6dcc9f16f8b03, type: 2}
+  - {fileID: 11400000, guid: 06e18194f79879b4d910a5aa049ae397, type: 2}
+  materialCosts: 030000000300000002000000
+  craftTime: 5
+  delayedObjects: []

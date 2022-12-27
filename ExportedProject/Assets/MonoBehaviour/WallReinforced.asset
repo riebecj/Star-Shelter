@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ecb7038c1490ac4e9c31b3ad525e01a, type: 3}
+  m_Name: WallReinforced
+  m_EditorClassIdentifier:
+  name: Wall (Reinforced)
+  prefab: {fileID: 1522751731287186, guid: 40e5c7ac89c104041976c2ae06222bdb, type: 2}
+  icon: {fileID: 4300000, guid: 1e163dde4a7cd1645bc4bbc062f51a85, type: 2}
+  iconSize: 5
+  description: 'A reinforced metal wall that can be put on the outside of rooms. '
+  iconOffsetY: 0
+  iconRot: {x: 0, y: 0, z: 0}
+  corner: {fileID: 1450373572980930, guid: 1f65a3e917a9e174daefd40c1a60271c, type: 2}

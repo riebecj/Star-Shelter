@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MetalScrap_4
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 48
+    topology: 0
+    firstVertex: 0
+    vertexCount: 34
+    localAABB:
+      m_Center: {x: -0.0010674987, y: -0.0024865002, z: 0.008111004}
+      m_Extent: {x: 0.049220502, y: 0.0101455, z: 0.123968005}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: []
+  m_RootBoneNameHash: 0
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexBuffer: 000001000200000002000300040005000600040006000700080009000a0008000a000b000c000d000e000c000e000f00100011001200100012001300140015001600140016001700180019001a001b001c001d001b001d001e001f0020002100
+  m_Skin: []
+  m_VertexData:
+    m_CurrentChannels: 139
+    m_VertexCount: 34
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 32
+      format: 0
+      dimension: 4
+    m_DataSize: 1632
+    _typelessdata: e99d4abd300f993b47aedbbd538be8bd9270613d2bf47dbf5d16233f7e52653f90567ebfe9e5353a9df9e83d0000803fd89dee3c59f8fa3ba1d8eabd538be8bd9270613d2bf47dbfe3171e3f0e83653f32577ebff5aa63babecce83d0000803fc093963c60e726bc6f46edbd538be8bd9270613d2bf47dbfbdc61e3fcc60643f1e577ebf3f522cbad1d2e83d0000803fcafa4dbdbd184abc4980dabd538be8bd9270613d2bf47dbfbc23233fde3d643f6e567ebf74827f3aa801e93d0000803f8b36c7bcc4ed503bb03cc83ca5c8dabcf4d87f3f241cb33c4a7d213f1494663f9ee87fbfc9d2dabc59eb94b80000803f153c453dfbca833b80b52a3da5c8dabcf4d87f3f241cb33c6de21c3f71ac673f9ee87fbfd0cddabce5eb3bb90000803fd89dee3c59f8fa3ba1d8eabda5c8dabcf4d87f3f241cb33ce3171e3f30bd5d3f9ce87fbf2fdadabce878bd380000803fe99d4abd300f993b47aedbbda5c8dabcf4d87f3f241cb33c5d16233fa4355e3f9ae87fbf9edfdabcf1025b390000803fc093963c60e726bc6f46edbdd7516e3f4c70abbed43b15be1c441f3f16dd5e3f7b2baf3ed772703f8fd0e03c0000803fd89dee3c59f8fa3ba1d8eabdd7516e3f4c70abbed43b15be6f66203f5af05e3fd5eaae3e6185703f9daec13c0000803f153c453dfbca833b80b52a3dd7516e3f4c70abbed43b15be412b203f9cdf683f63beaa3e562f713fa1d60cbd0000803f57953d3d73f64ebccc242a3dd7516e3f4c70abbed43b15be541c1f3f61dd683f7c20ab3e0c29713fe4b4f0bc0000803fcafa4dbdbd184abc4980dabdb9dafcbc05d67fbf5759943cbc23233f033f5e3fc2e07fbf8bb7fc3c637d9dba000080bfc093963c60e726bc6f46edbdb9dafcbc05d67fbf5759943cbdc61e3feba95d3fc6e07fbf07d1fc3ce7ca0bba000080bf57953d3d73f64ebccc242a3db9dafcbc05d67fbf5759943cc5001d3f37aa673fb0e07fbf540efd3c0b3d8d3a000080bf1fbfb7bc3a5ad5bbd4298f3cb9dafcbc05d67fbf5759943c8d5e213fc422663fbce07fbf43f9fc3c7035093a000080bfe99d4abd300f993b47aedbbde5a279bf8390b3bd8261503ece35203fcf685f3fd098acbdbc017f3f7f99cf3c000080bfcafa4dbdbd184abc4980dabde5a279bf8390b3bd8261503e2d211f3f2e725f3f8af4aabd4cff7e3f7eefee3c000080bf1fbfb7bc3a5ad5bbd4298f3ce5a279bf8390b3bd8261503ee17f1f3f0056673fdadec8bd058b7e3fa55e2abd000080bf8b36c7bcc4ed503bb03cc83ce5a279bf8390b3bd8261503eb01d203f50c7673fffc0cabdf2777e3f02ef3cbd000080bf8b36c7bcc4ed503bb03cc83c3ef67abfe536c1bd6f9331beb01d203f50c7673fb54fc2bd77d77e3fd6f5aabb000080bf1fbfb7bc3a5ad5bbd4298f3c3ef67abfe536c1bd6f9331bee17f1f3f0056673faebcc2bd85d67e3f883284bb000080bfaad42cbdebc811bcb83f073e3ef67abfe536c1bd6f9331be14591f3f2c9e6e3fc722c5bd72cf7e3f97652d3b000080bff9842cbdf294d53bb43af93d3ef67abfe536c1bd6f9331bed253203f49f56d3f9904c5bddfcf7e3f7ad6173b000080bf1fbfb7bc3a5ad5bbd4298f3ca3659dbd25187fbf144e0bbd8d5e213fc422663ff23d7fbfb07c9d3d2a208137000080bf57953d3d73f64ebccc242a3da3659dbd25187fbf144e0bbdc5001d3f37aa673ff23d7fbfb07c9d3d2a208137000080bfaad42cbdebc811bcb83f073ea3659dbd25187fbf144e0bbd12a0223f016b6d3ff23d7fbfb07c9d3d2a208137000080bf57953d3d73f64ebccc242a3d6f8a2e3f7e423d3ec332353fa41b1d3f406c653f429638bf3a1ad43b4a5f313f000080bf153c453dfbca833b80b52a3d6f8a2e3f7e423d3ec332353f3bfd1c3f1c7b663f44a138bfa30a003ced52313f000080bff9842cbdf294d53bb43af93d6f8a2e3f7e423d3ec332353fa1b9223fbea3663f372438bfd77fe0bb73d5313f000080bfaad42cbdebc811bcb83f073e6f8a2e3f7e423d3ec332353fe0ba223fefa8653f9c1a38bf44e701bca2de313f000080bff9842cbdf294d53bb43af93d382853bbecd77f3f6f9f0ebdd49e223f0dc26c3faaff7fbfc23f53bba5ed84370000803f153c453dfbca833b80b52a3d382853bbecd77f3f6f9f0ebd6de21c3f71ac673faaff7fbfc23f53bba4ed84370000803f8b36c7bcc4ed503bb03cc83c382853bbecd77f3f6f9f0ebd4a7d213f1494663faaff7fbfc23f53bba5ed84370000803f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: -0.0010674987, y: -0.0024865002, z: 0.008111004}
+    m_Extent: {x: 0.049220502, y: 0.0101455, z: 0.123968005}
+  m_MeshUsageFlags: 1
+  m_BakedConvexCollisionMesh:
+  m_BakedTriangleCollisionMesh:
+  m_MeshOptimized: 1

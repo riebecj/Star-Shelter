@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d896f49f022bb449b3a85eae80d696, type: 3}
+  m_Name: Bed
+  m_EditorClassIdentifier:
+  name: Bed
+  prefab: {fileID: 1932642085784741, guid: e0f473fac246f7345a96a0a8dd2dc6fc, type: 2}
+  icon: {fileID: 4300000, guid: 8906c77ad40e31a46a88e87363ca1ce3, type: 2}
+  iconSize: 8
+  description: The bed can be used to pass time, when used you'll see that the environment has shifted.
+  iconOffsetY: 0
+  iconRot: {x: 0, y: 0, z: 0}
+  outDoor: 0
+  floor: 1

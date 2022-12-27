@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b32befef91acac44fa17f5dcc7a39a06, type: 3}
+  m_Name: T-Corridor
+  m_EditorClassIdentifier:
+  name: T-Corridor
+  prefab: {fileID: 1870019952873763, guid: decf73bffdaff4446823974a55de55de, type: 2}
+  icon: {fileID: 4300000, guid: dd9b26a2f7bdef943b33cb2a7a5bd098, type: 2}
+  iconSize: 5
+  description: A split Corridor.
+  iconOffsetY: 0
+  iconRot: {x: 0, y: 0, z: 0}
+  isRoom: 0
